@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - JavaScript Part 2
 
-Link to GitHub Pages: `[https://ds4200-s23-class.github.io/ic-06-adithi_xander/]`
+Link to GitHub Pages: [https://ds4200-s23-class.github.io/ic-06-adithi_xander/]
 
 ## Purpose
 
